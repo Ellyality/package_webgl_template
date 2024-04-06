@@ -1,0 +1,14 @@
+{
+	"name": "com.ellyality.utility.webgl_teplate",
+	"displayName":"WebGL Teplate",
+	"version": "1.0.0",
+    "author": "Elly Utility",
+    "unity": "2019.2",
+    "keywords": ["utility", "webgl", "template"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "",
+    "documentationUrl": "https://github.com/Ellyality/package_webgl_template/blob/main/README.md",
+    "dependencies": {
+    }
+}
